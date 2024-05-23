@@ -7,7 +7,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/maarcnavarro9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="marc-navarro-amengual" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/marc-navarro-amengual" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="marc-navarro-amengual" height="30" width="40" /></a>
 <a href="https://instagram.com/maarc.navarro" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="maarc.navarro" height="30" width="40" /></a>
 <a href="https://discord.gg/pUdYG3MhfK" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="pUdYG3MhfK" height="30" width="40" /></a>
 </p>
